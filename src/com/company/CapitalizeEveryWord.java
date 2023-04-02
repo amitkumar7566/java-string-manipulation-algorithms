@@ -1,8 +1,8 @@
 package com.company;
 
-public class Capitalize {
+public class CapitalizeEveryWord {
 
-    public static String capitalize(String sentence) {
+    public static String capitalizeEveryWord(String sentence) {
         if (sentence == null || sentence.trim().isEmpty())
             return "";
 

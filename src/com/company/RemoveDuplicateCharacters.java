@@ -3,9 +3,9 @@ package com.company;
 import java.util.HashSet;
 import java.util.Set;
 
-public class RemoveDuplicates {
+public class RemoveDuplicateCharacters {
 
-    public static String removeDuplicates(String str) {
+    public static String removeDuplicateCharacters(String str) {
         if (str == null)
             return "";
 
