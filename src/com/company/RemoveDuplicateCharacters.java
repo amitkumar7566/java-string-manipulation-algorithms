@@ -18,6 +18,7 @@ public class RemoveDuplicateCharacters {
                 output.append(ch);
             }
         }
+
         return output.toString();
     }
 
